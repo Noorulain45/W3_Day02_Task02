@@ -47,5 +47,3 @@ themeToggler.addEventListener("click", function () {
 
 
 const downloadBtn = document.getElementById('downloadBtn');
-
-
